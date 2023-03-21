@@ -1,4 +1,4 @@
-## Oiii eu sou o Nilton Filho, Desenvolvedor Full-Stack!
+## Olá eu sou o Nilton Filho, Desenvolvedor Full-Stack!
 
 Desenvolvendo prioritariamente no BackEnd com .NetCore,  porém se aventurando no Front End com Angular e Mobile com Flutter.
 
