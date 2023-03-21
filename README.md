@@ -11,6 +11,8 @@ Desenvolvendo prioritariamente no BackEnd com .NetCore,  porém se aventurando n
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nfdeveloper)](https://github.com/anuraghazra/github-readme-stats)
   
 ## Contatos
 
