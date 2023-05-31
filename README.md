@@ -2,6 +2,12 @@
 
 Desenvolvendo prioritariamente no BackEnd com .NetCore,  porém se aventurando no Front End com Angular e Mobile com Flutter.
 
+<div align="center">
+  <a href="https://github.com/nfdeveloper">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nfdeveloper&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfdeveloper&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
