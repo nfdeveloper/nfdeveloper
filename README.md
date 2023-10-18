@@ -1,6 +1,6 @@
 ## Olá eu sou o Nilton Filho, Desenvolvedor Full-Stack!
 
-Desenvolvendo prioritariamente no BackEnd com NodeJS,  porém se aventurando no Front End com ReactJS/NextJS e Mobile com React Native.
+Desenvolvendo prioritariamente no BackEnd com C# e todo o seu ecossistema (.Net, AspNetCore), porém se aventurando no Front End com AngularJS e Mobile com Flutter.
 
 <div align="center">
   <a href="https://github.com/nfdeveloper">
