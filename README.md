@@ -1,14 +1,10 @@
 ## Olá eu sou o Nilton Filho, Desenvolvedor Full-Stack!
 
-Desenvolvendo prioritariamente no BackEnd com C# e todo o seu ecossistema (.Net, AspNetCore), porém se aventurando no Front End com AngularJS e Mobile com Flutter.
-
-<div align="center">
-  <a href="https://github.com/nfdeveloper">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nfdeveloper&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfdeveloper&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
+Desenvolvendo Full Stack utilizando Java, Spring Boot e Angular.
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
